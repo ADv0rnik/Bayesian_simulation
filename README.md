@@ -36,3 +36,6 @@ Run model.py from the terminal by using following command (you must be inside co
 ```bash
 python model.py
 ```
+
+Sample data available via this link: 
+https://drive.google.com/drive/folders/1LRt4xuW9M2uCYrDU6Qv_bM_OzOEzSsRK?usp=share_link
